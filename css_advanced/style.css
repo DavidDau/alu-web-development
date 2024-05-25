@@ -107,19 +107,50 @@
   bottom: 3px;
   left: 285px;
   border-radius: 50px;
-  height: 40px;
+  height: 30px;
   width: 110px;
   background-color: rgb(251, 54, 54);
+  font-size: 12px;
 }
 #deal {
   color: rgb(255, 255, 255);
   position: absolute;
-  top: 225px;
+  top: 240px;
   right: 3px;
   bottom: 3px;
-  left: 425px;
+  left: 260px;
   border-radius: 50px;
   height: 20px;
   width: 200px;
-  font-family: initial;
+  font-family: sans properties;
+  font-size: 20px;
+}
+
+.tchaka {
+  position: absolute;
+  top: 300px;
+  right: 3px;
+  bottom: 3px;
+  left: 60px;
+  border-radius: 50px;
+  height: 20px;
+  width: 200px;
+  font-family: sans properties;
+  font-size: 20px;
+}
+#founder {
+  margin: 80px 7px -50px 25px;
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+}
+#h1 {
+  font-size: 15px;
+  color: white;
+  margin: 50px 7px 1px 25px;
+}
+#p1 {
+  font-size: 10px;
+  color: white;
+  margin: 0px 7px 10px 32px;
 }
