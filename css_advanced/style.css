@@ -1,0 +1,125 @@
+#top {
+  background-image: url("../html_advanced/Images/Header-BG.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 628px;
+  height: 380px;
+}
+#logo1 {
+  position: relative;
+  top: 6px;
+  width: 5%;
+  height: auto;
+  left: 7px;
+  margin: 3px;
+}
+#name {
+  position: absolute;
+  top: 2px;
+  right: 3px;
+  bottom: 3px;
+  left: 60px;
+  color: white;
+  font-size: 20px;
+}
+#menu {
+  position: absolute;
+  top: 25px;
+  right: 3px;
+  bottom: 3px;
+  left: 300px;
+  color: white;
+}
+
+#deliver {
+  position: absolute;
+  top: 25px;
+  right: 3px;
+  bottom: 3px;
+  left: 390px;
+  color: white;
+}
+
+#aboutus {
+  position: absolute;
+  top: 25px;
+  right: 3px;
+  bottom: 3px;
+  left: 500px;
+  color: white;
+}
+
+#logo2 {
+  position: absolute;
+  top: 55px;
+  right: 3px;
+  bottom: 3px;
+  left: 280px;
+  height: 100px;
+  width: 100px;
+}
+#name2 {
+  position: absolute;
+  top: 105px;
+  right: 3px;
+  bottom: 3px;
+  left: 200px;
+  color: hsl(0, 0%, 100%);
+  font-size: 50px;
+}
+
+#prom {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 185px;
+  right: 3px;
+  bottom: 3px;
+  left: 180px;
+  height: 100px;
+  width: 100px;
+}
+#site {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 185px;
+  right: 3px;
+  bottom: 3px;
+  left: 320px;
+  height: 100px;
+  width: 100px;
+}
+#cont {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 185px;
+  right: 3px;
+  bottom: 3px;
+  left: 425px;
+  height: 100px;
+  width: 100px;
+}
+#buto1 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 225px;
+  right: 3px;
+  bottom: 3px;
+  left: 285px;
+  border-radius: 50px;
+  height: 40px;
+  width: 110px;
+  background-color: rgb(251, 54, 54);
+}
+#deal {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 225px;
+  right: 3px;
+  bottom: 3px;
+  left: 425px;
+  border-radius: 50px;
+  height: 20px;
+  width: 200px;
+  font-family: initial;
+}
