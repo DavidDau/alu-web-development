@@ -13,4 +13,4 @@ The website has the following main parts as included on the homepage.
 
 Please find the website design page below.
 
-![Dave's pizza homepage](/ALU/alu-web-development/html_advanced/Images/Dave's%20pizza%20home%20page.jpg)
+![Dave's pizza homepage](html_advanced/Images/Dave's%20pizza%20home%20page.jpg)
