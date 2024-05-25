@@ -4,4 +4,4 @@ This will be done through direct orders, scheduled orders and delivery.
 
 The website also includes contacts and more information about the company as well as a list of the Directing Board.
 
-![Dave's pizza homepage](alu-web-development/html_advanced/Images/Dave's%20pizza%20home%20page.jpg)
+![Dave's pizza homepage](html_advanced/Images/Dave's%20pizza%20home%20page.jpg)
